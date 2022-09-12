@@ -1,0 +1,108 @@
+
+ body{
+   background-color: #80808075;
+   margin: 0;
+   padding: 0;
+ }
+ #root{
+   margin:7%;
+   background-color: white;
+   width: 85%;
+   height: 1500px;
+ }
+ #central-panel{
+   width: 100%;
+   height: 100%;
+ }
+ #left-panel{
+   background-color: #adff2f42;
+   height: 100%;
+   width: 48%;
+   float:left;
+ }
+ #right-panel{
+   background-color: #0080005e;
+   height: 100%;
+   width: 48%;
+   float: right;
+ }
+ #inp_1{
+   width: 50%;
+   height: 20px;
+   margin-left: 19%;
+ }
+ #inp_2{
+   width: 50%;
+   height: 20px;
+   margin-left: 15%;
+ }
+ #log-menu{
+
+   margin:5%;
+   width: 90%;
+   height: 90%;
+ }
+ #button-log{
+   margin-left: 45%;
+   height: 40px;
+ }
+ #panel{
+   width: 80%;
+   margin-left:10%;
+   margin-top: 5%;
+   height: 130px;
+   background-color: #ffffff00;
+
+   transition: all .2s ease;
+ }
+ #panel p{
+   font-size: 17px;
+   font-family: Calibri;
+ }
+ #panel:hover{
+   opacity: 1;
+   box-shadow: 0px 0px 14px 0px black;
+   background-color:#ffffffb8;
+ }
+ #button-delete{
+   float: right;
+   height: 35px;
+   width: 90px;
+
+ }
+ #button-change{
+   float: right;
+   height: 35px;
+   width: 90px;
+
+ }
+ #change-login{
+   width: 130px;
+   height: 20px;
+   margin-left: 1%;
+   margin-top: 2%;
+ }
+ #change-password{
+   width: 130px;
+   height: 20px;
+   margin-left: 1%;
+   margin-top: 2%;
+ }
+ #changePanel{
+   background-color: #4bff7087;
+   width: 100%;
+   height: 50px;
+ }
+ #changePanel a{
+   font-size: 19px;
+
+ }
+ #a_change_login{
+   margin-left: 3%;
+
+ }
+ #a_change_password{
+   margin-left: 5%;
+ }
+
+
