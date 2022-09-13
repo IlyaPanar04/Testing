@@ -29,7 +29,7 @@
  #inp_1{
    width: 50%;
    height: 20px;
-   margin-left: 19%;
+   margin-left: 19.7%;
  }
  #inp_2{
    width: 50%;
@@ -106,3 +106,13 @@
  }
 
 
+#button-ok{
+    float: left;
+    height: 35px;
+    width: 70px;
+    margin-left: 25%;
+ }
+
+#change-login-input{
+   width: 195px;
+}
